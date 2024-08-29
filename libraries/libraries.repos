@@ -1,0 +1,13 @@
+repositories:
+  mrg_library:
+    type: git
+    url: https://github.com/gt-marine-robotics-group/kicad-libs.git
+    version: main
+  teensy_symbols:
+    type: git
+    url: https://github.com/XenGi/teensy_library.git
+    version: 89d559b36ae93da19d91e7954bc03cf3527f0bdc
+  teensy_footprints:
+    type: git
+    url: https://github.com/XenGi/teensy.pretty.git
+    version: 126e054a2a02426f455ef2397ee5f6cb1ae80057
