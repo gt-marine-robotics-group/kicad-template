@@ -1,6 +1,6 @@
 # kicad-template
 
-This is a KiCad Template for git-controlled KiCad projects.
+This is a KiCad Template for git-controlled KiCad projects. A single repository can contain multiple KiCad projects, but they should be related to each other.
 
 Make sure to update this README with details for your project.
 
@@ -13,8 +13,13 @@ This should end up looking like
 
 ```
 git_directory
-├─ kicad_project/
+├─ kicad_project_1/
 │  ├─ kicad_project_files.kicad_sch
+├─ kicad_project_2/
+│  ├─ kicad_project_files.kicad_sch
+├─ harnesses/ # Optional
+│  ├─ wireviz.yml
+├─ firmware/ # Optional
 ├─ libraries/
 │  ├─ libraries.repos
 │  ├─ libraries_folders_imported_here/ # This is only on your local machine
