@@ -17,7 +17,7 @@ git_directory
 │  ├─ kicad_project_files.kicad_sch
 ├─ kicad_project_2/
 │  ├─ kicad_project_files.kicad_sch
-├─ harnesses/ # Optional
+├─ wiring/ # Optional
 │  ├─ wireviz.yml
 ├─ firmware/ # Optional
 ├─ libraries/
