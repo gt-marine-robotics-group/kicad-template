@@ -30,3 +30,9 @@ git_directory
 ```
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for details on how to setup and contribute to KiCad projects with Git.
+
+## System Schematic
+
+The system schematic provides an overview of large components in an electrical system. This can be edited via drawio (diagrams.net).
+
+![diagram](./diagram.drawio.svg)
