@@ -33,6 +33,16 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for details on how to setup and contrib
 
 ## System Schematic
 
-The system schematic provides an overview of large components in an electrical system. This can be edited via drawio (diagrams.net).
+The system schematic provides an overview of large components in an electrical system. 
+
+### DrawIO 
+
+This can be edited via drawio (diagrams.net).
 
 ![diagram](./diagram.drawio.svg)
+
+### Excalidraw
+
+This can be edited via Excalidraw
+
+![diagram](./diagram.excalidraw.svg)
