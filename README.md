@@ -45,4 +45,4 @@ This can be edited via drawio (diagrams.net).
 
 This can be edited via Excalidraw
 
-![diagram](./diagram.excalidraw.svg)
+![diagram](./diagram.excalidraw.png)
