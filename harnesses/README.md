@@ -1,4 +1,4 @@
-# Wiring 
+# Harnesses
 
 Anything pertaining to wiring for the project should be defined in this folder.
 
