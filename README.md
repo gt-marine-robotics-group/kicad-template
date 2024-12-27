@@ -39,10 +39,10 @@ The system schematic provides an overview of large components in an electrical s
 
 This can be edited via drawio (diagrams.net).
 
-![diagram](./diagram.drawio.svg)
+![diagram](./diagrams/diagram.drawio.svg)
 
 ### Excalidraw
 
 This can be edited via Excalidraw
 
-![diagram](./diagram.excalidraw.svg)
+![diagram](./diagrams/diagram.excalidraw.svg)
